@@ -1,5 +1,5 @@
 for N in range(1, 101):
-    if N == 0:
+    if N == 1:
         print(N, ' процент')
     elif N <= 4:
         print(N, ' процента')
